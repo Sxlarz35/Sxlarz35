@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**sxlarz04/sxlarz04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Stefan as known as Sxlarz
 
-Here are some ideas to get you started:
+🎨Public Designer (making logos and banners for Discord and YouTube)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚Learning how to program on JS & Python
+
+### My bot 🤖
+[😡RAGE](https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot)
+
+### The places where you can find me ✔
+
+[🎥YouTube](https://www.youtube.com/channel/UCNhqSNZfgyt7XNm8bz9zxjg) [🕹Steam](https://steamcommunity.com/id/sxlarz/)
+
+### Github Stats 📊
+
+<img align="center" src="https://github-radme-stats.vercel.app/api?username=sxlarz04&count_private=true&title_color=9bff00&icon_color=9bff00&custom_title=Sxlarz's+Github+Stats" />
