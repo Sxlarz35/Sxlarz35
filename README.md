@@ -24,8 +24,5 @@
 - [Twitch](https://twitch.tv/sxlarz__)
 
 ### 📈 GitHub Stats
-[![Sxlarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxlarz04)](https://github.com/anuraghazra/github-readme-stats)
-
-![Sxlarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxlarz04&show_icons=true)
 
 ![Sxlarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxlarz04&show_icons=true&theme=radical)
