@@ -1,21 +1,21 @@
 ### Hi there 
 
--  14.04
+-  🎂14.04
 
--  Male
+-  👨Male
 
--  Bulgarian
+-  🗺Bulgarian
 
--  Learning how to program on JS & Python
+-  📚Learning how to program on JS & Python
 
 
-### My bots 
+### 🤖My bots: 
 - [ RAGE](https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot)
 
 - [ Ziro-Bot](https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot)
 
 
-### The places where you can find me ✔
+### 👇The places where you can find me:
 
 - [YouTube](https://www.youtube.com/channel/UCNhqSNZfgyt7XNm8bz9zxjg) 
 
