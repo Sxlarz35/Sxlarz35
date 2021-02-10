@@ -1,4 +1,4 @@
-### 👋 Hi there 
+### 👋 Hello
 
 -  🎂 14.04
 
@@ -25,4 +25,4 @@
 
 ### 📈 GitHub Stats
 
-![Sxlarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxlarz04&show_icons=true&theme=radical)
+![Sxlarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SxlarzDev&show_icons=true&theme=radical)
