@@ -6,6 +6,8 @@
 
 -  🗺 Bulgarian
 
+-  🎨 Graphic Designer
+
 -  📚 Learning how to program on JS & Python
 
 
