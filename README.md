@@ -8,7 +8,7 @@
 
 -  🎨 Graphic Designer
 
--  📚 Learning how to program on JS & Python
+-  📚 Learning how to program on Python
 
 
 ### 🤖 Bots
