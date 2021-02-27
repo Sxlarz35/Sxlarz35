@@ -20,3 +20,7 @@
 ### 📈 GitHub Stats
 
 ![Sxlarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxlarz35&show_icons=true&theme=radical)
+
+
+### Gif
+![DazzlingPettyGrayfox-size_restricted](https://user-images.githubusercontent.com/68730434/109376473-52571680-78cd-11eb-83e2-df53d5a259a2.gif)
