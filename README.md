@@ -24,3 +24,8 @@
 
 ### Gif
 ![DazzlingPettyGrayfox-size_restricted](https://user-images.githubusercontent.com/68730434/109376473-52571680-78cd-11eb-83e2-df53d5a259a2.gif)
+
+
+### Status Banner
+![540520449852047391](https://discord.c99.nl/widget/theme-2/540520449852047391.png)
+
