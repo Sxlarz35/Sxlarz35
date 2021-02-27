@@ -17,7 +17,7 @@
 - [Ziro-Bot](https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot)
 
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 ![Sxlarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxlarz35&show_icons=true&theme=radical)
 
