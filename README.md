@@ -17,14 +17,6 @@
 - [Ziro-Bot](https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot)
 
 
-### 👇 The places where you can find me
-
-- [YouTube](https://www.youtube.com/channel/UCNhqSNZfgyt7XNm8bz9zxjg) 
-
-- [Steam](https://steamcommunity.com/id/Sxlarz/)
-
-- [Twitch](https://twitch.tv/sxlarz__)
-
 ### 📈 GitHub Stats
 
 ![Sxlarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxlarz35&show_icons=true&theme=radical)
