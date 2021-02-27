@@ -1,4 +1,8 @@
-### Hello
+### Gif
+![DazzlingPettyGrayfox-size_restricted](https://user-images.githubusercontent.com/68730434/109376473-52571680-78cd-11eb-83e2-df53d5a259a2.gif)
+
+
+### About Me
 
 -   16 years old
 
@@ -8,7 +12,7 @@
 
 -   Graphic Designer
 
--   Learning how to program on Python
+-   Learning how to program on Python & JS
 
 
 ### Bots
@@ -17,15 +21,11 @@
 - [Ziro-Bot](https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot)
 
 
+### Status Banner
+![540520449852047391](https://discord.c99.nl/widget/theme-2/540520449852047391.png)
+
+
 ### GitHub Stats
 
 ![Sxlarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxlarz35&show_icons=true&theme=radical)
-
-
-### Gif
-![DazzlingPettyGrayfox-size_restricted](https://user-images.githubusercontent.com/68730434/109376473-52571680-78cd-11eb-83e2-df53d5a259a2.gif)
-
-
-### Status Banner
-![540520449852047391](https://discord.c99.nl/widget/theme-2/540520449852047391.png)
 
