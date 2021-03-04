@@ -26,7 +26,7 @@
 
 
 ### Status Banner
-![540520449852047391](https://discord.c99.nl/widget/theme-2/540520449852047391.png)
+![540520449852047391](https://discord.c99.nl/widget/theme-1/540520449852047391.png)
 
 
 ### GitHub Stats
