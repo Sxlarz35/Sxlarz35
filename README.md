@@ -19,15 +19,16 @@
 -   Learning how to program on Python & JS
 
 ### Socials
-- [YouTube](https://www.youtube.com/c/Sxlarz)
-- [Twitch](https://twitch.tv/sxlarz__)
-- [Steam](https://steamcommunity.com/id/Sxlarz)
+- ![youtube (1)](https://user-images.githubusercontent.com/68730434/110563813-898eb880-8154-11eb-818c-3ddfd23357c9.png)  [YouTube](https://www.youtube.com/c/Sxlarz)
+- ![Webp net-resizeimage](https://user-images.githubusercontent.com/68730434/110564264-379a6280-8155-11eb-8010-ee1a53569a6c.png)  [Twitch](https://twitch.tv/sxlarz__)
+- ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/68730434/110564550-ae376000-8155-11eb-969b-6ab004b759ed.png)  [Steam](https://steamcommunity.com/id/Sxlarz)
 
 
 ### Bots
-- [RAGE](https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot) 
+- ![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/68730434/110565839-c9a36a80-8157-11eb-9596-39f4b3f0a519.png)
+ [RAGE](https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot) 
 
-- [Ziro-Bot](https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot)
+- ![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/68730434/110565688-86e19280-8157-11eb-82a4-a1ad4fc62fe9.png)  [Ziro-Bot](https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot)
 
 
 ### Websites
