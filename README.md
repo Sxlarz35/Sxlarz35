@@ -25,10 +25,9 @@
 
 
 ### Bots
-- ![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/68730434/110565839-c9a36a80-8157-11eb-9596-39f4b3f0a519.png)
- [RAGE](https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot) 
+- [RAGE](https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot) 
 
-- ![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/68730434/110565688-86e19280-8157-11eb-82a4-a1ad4fc62fe9.png)  [Ziro-Bot](https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot)
+- [Ziro-Bot](https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot)
 
 
 ### Websites
