@@ -1,5 +1,4 @@
-### Gif
-![DazzlingPettyGrayfox-size_restricted](https://user-images.githubusercontent.com/68730434/109376473-52571680-78cd-11eb-83e2-df53d5a259a2.gif)
+
 
 
 ### About Me
@@ -16,13 +15,11 @@
 
 
 ### Bots
-- [RAGE](https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot)
-- [Ziro-Bot](https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot)
+- [RAGE](https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot) [Ziro-Bot](https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot)
 
 
 ### Websites
-- [Ziro-Bot](https://zirobot.tk)
-- [RAGE](https://ragebot.xyz)
+- [Ziro-Bot](https://zirobot.tk) [RAGE](https://ragebot.xyz)
 
 
 ### Status Banner
