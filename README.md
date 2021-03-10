@@ -18,13 +18,22 @@
 
 -   Learning how to program on Python & JS
 
+### Socials
+- [YouTube](https://www.youtube.com/c/Sxlarz)
+- [Twitch](https://twitch.tv/sxlarz__)
+- [Steam](https://steamcommunity.com/id/Sxlarz)
+
 
 ### Bots
-- [RAGE](https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot) [Ziro-Bot](https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot)
+- [RAGE](https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot) 
+
+- [Ziro-Bot](https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot)
 
 
 ### Websites
-- [Ziro-Bot](https://zirobot.tk) [RAGE](https://ragebot.xyz)
+- [Ziro-Bot](https://zirobot.tk) 
+
+- [RAGE](https://ragebot.xyz)
 
 
 ### Status Banner
@@ -34,4 +43,3 @@
 ### GitHub Stats
 
 ![Sxlarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxlarz35&show_icons=true&theme=radical)
-
