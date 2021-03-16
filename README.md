@@ -26,7 +26,7 @@
 ### Bot
 - [RAGE](https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot)
 
-### Websites
+### Website
 - [RAGE](https://ragebot.xyz)
 
 ### Status Banner
