@@ -23,11 +23,11 @@
 - ![Webp net-resizeimage](https://user-images.githubusercontent.com/68730434/110564264-379a6280-8155-11eb-8010-ee1a53569a6c.png)  [Twitch](https://twitch.tv/sxlarz__)
 - ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/68730434/110564550-ae376000-8155-11eb-969b-6ab004b759ed.png)  [Steam](https://steamcommunity.com/id/Sxlarz)
 
-### Bots
-- [RAGE](https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot) , [Ziro-Bot](https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot)
+### Bot
+- [RAGE](https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot)
 
 ### Websites
-- [Ziro-Bot](https://zirobot.tk) , [RAGE](https://ragebot.xyz)
+- [RAGE](https://ragebot.xyz)
 
 ### Status Banner
 ![540520449852047391](https://discord.c99.nl/widget/theme-1/540520449852047391.png)
