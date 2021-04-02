@@ -10,8 +10,6 @@
 
 -   Male
 
--   Student
-
 -   Bulgarian
 
 -   Graphic Designer
