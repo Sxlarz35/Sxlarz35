@@ -19,8 +19,12 @@
 ### Websites
 - [Ziro-Bot](https://www.zirobot.xyz/) , [RAGE](https://ragebot.xyz)
 
+
 ### Status Banner
 ![540520449852047391](https://discord.c99.nl/widget/theme-1/540520449852047391.png)
 
 ### GitHub Stats
 ![Sxlarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=azsumqk&show_icons=true&theme=radical)
+
+### Github Visitors
+<a href="https://github.com/azsumqk"><img alt="Github Visitors" src="https://visitor-badge.glitch.me/badge?page_id=azsumqk.azsumqk" /></a>
