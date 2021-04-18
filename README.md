@@ -2,10 +2,13 @@
 ![standard (18)](https://user-images.githubusercontent.com/68730434/115160008-a0eb8a80-a09e-11eb-8f5d-2fe13e6d3c1c.gif)
 
 ### About Me:
--   Male
--   Bulgarian
--   Graphic Designer
--   Learning how to program on ``.py`` & ``.js``
+-   ![Webp net-resizeimage (13)](https://user-images.githubusercontent.com/68730434/115161623-70f4b500-a0a7-11eb-9c1f-fa3470cceb79.png) Male
+-   ![Webp net-resizeimage (12)](https://user-images.githubusercontent.com/68730434/115161583-4145ad00-a0a7-11eb-8f17-122ec9b210f3.png)
+Bulgaria
+-   ![Webp net-resizeimage (14)](https://user-images.githubusercontent.com/68730434/115161666-a8fbf800-a0a7-11eb-9851-d11f74ab2c96.png) 17
+-   ![Webp net-resizeimage (15)](https://user-images.githubusercontent.com/68730434/115161704-db0d5a00-a0a7-11eb-86d9-d743ed7079b2.png) Graphic Designer
+-   ![Webp net-resizeimage (16)](https://user-images.githubusercontent.com/68730434/115161752-14de6080-a0a8-11eb-841a-e8daf681a147.png)
+Learning how to program on ``.py`` & ``.js``
 
 ### Socials:
 ![youtube (1)](https://user-images.githubusercontent.com/68730434/110563813-898eb880-8154-11eb-818c-3ddfd23357c9.png)  [Sxlarz](https://www.youtube.com/c/Sxlarz)
