@@ -1,34 +1,41 @@
-### Gif
 ![standard (18)](https://user-images.githubusercontent.com/68730434/115160008-a0eb8a80-a09e-11eb-8f5d-2fe13e6d3c1c.gif)
 
-### About Me:
--   ![Webp net-resizeimage (13)](https://user-images.githubusercontent.com/68730434/115161623-70f4b500-a0a7-11eb-9c1f-fa3470cceb79.png) Male
--   ![Webp net-resizeimage (12)](https://user-images.githubusercontent.com/68730434/115161583-4145ad00-a0a7-11eb-8f17-122ec9b210f3.png)
-Bulgaria
--   ![Webp net-resizeimage (14)](https://user-images.githubusercontent.com/68730434/115161666-a8fbf800-a0a7-11eb-9851-d11f74ab2c96.png) 17
--   ![Webp net-resizeimage (15)](https://user-images.githubusercontent.com/68730434/115161704-db0d5a00-a0a7-11eb-86d9-d743ed7079b2.png) Graphic Designer
--   ![Webp net-resizeimage (16)](https://user-images.githubusercontent.com/68730434/115161752-14de6080-a0a8-11eb-841a-e8daf681a147.png)
-Learning how to program on ``.py`` & ``.js``
+<h1 align="center"> About Me </h1>
 
-### Socials:
-![youtube (1)](https://user-images.githubusercontent.com/68730434/110563813-898eb880-8154-11eb-818c-3ddfd23357c9.png)  [Sxlarz](https://www.youtube.com/c/Sxlarz)
+-  Male
 
-![Webp net-resizeimage](https://user-images.githubusercontent.com/68730434/110564264-379a6280-8155-11eb-8010-ee1a53569a6c.png)  [sxlarz__](https://twitch.tv/sxlarz__)
+-  Bulgaria
 
-![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/68730434/110564550-ae376000-8155-11eb-969b-6ab004b759ed.png)  [id/Sxlarz](https://steamcommunity.com/id/Sxlarz)
+-  17
 
-### Bots:
-[RAGE](https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot) , [Ziro-Bot](https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=268815426&scope=bot)
+-  Graphic Designer
 
-### Websites:
-[RAGE](https://ragebot.xyz) , [Ziro-Bot](https://zirobot.xyz/)
+-  Learning how to program on ``.py``
 
+<h1 align="center"> Socials </h1>
+<a href="https://www.youtube.com/c/Sxlarz" target=blank><img align="center" src="https://user-images.githubusercontent.com/68730434/115648882-ede59000-a32e-11eb-8f89-309573d4fc71.png" height="50" width="50">
+<a href="https://steamcommunity.com/id/Sxlarz/" target=blank><img align="center" src="https://user-images.githubusercontent.com/68730434/115649747-8d575280-a330-11eb-8d3a-07096ea2311c.png" height="50" width="50">
+<a href="https://twitch.tv/sxlarz__" target=blank><img align="center" src="https://user-images.githubusercontent.com/68730434/115649927-ec1ccc00-a330-11eb-833e-f7ede18e723f.png" height="50" width="50">
+<a href="https://twitter.com/Sxlarz_" target=blank><img align="center" src="https://user-images.githubusercontent.com/68730434/115650106-4584fb00-a331-11eb-8bee-89127f7c3a07.png" height="50" width="50">
 
-### Status Banner:
+<h1 align="center"> Bots </h1>
+<a href="https://discord.com/oauth2/authorize?client_id=706120306082971699&permissions=2146958847&scope=bot" target=blank><img align="center" src="https://user-images.githubusercontent.com/68730434/115650226-7e24d480-a331-11eb-89db-cadb4f28e0bf.png" height="50" width="50">
+<a href="https://discord.com/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot" target=blank><img align="center" src="https://user-images.githubusercontent.com/68730434/115650478-f2f80e80-a331-11eb-9340-6526c90752b4.png" height="50" width="50">
+
+<h1 align="center"> Websites </h1>
+<a href="https://ragebot.xyz" target=blank><img align="center" src="https://user-images.githubusercontent.com/68730434/115650226-7e24d480-a331-11eb-89db-cadb4f28e0bf.png" height="50" width="50">
+<a href="https://zirobot.xyz" target=blank><img align="center" src="https://user-images.githubusercontent.com/68730434/115650478-f2f80e80-a331-11eb-9340-6526c90752b4.png" height="50" width="50">
+
+<h1 align="center"> Stats </h1>
+
+###  Status Banner:
+
 ![540520449852047391](https://discord.c99.nl/widget/theme-1/540520449852047391.png)
 
-### GitHub Stats:
+###  GitHub Stats:
+
+
 ![Sxlarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxl4rz&show_icons=true&theme=radical)
 
-### Github Visitors:
+###  Github Visitors:
 <a href="https://github.com/azsumqk"><img alt="Github Visitors" src="https://visitor-badge.glitch.me/badge?page_id=Sxl4rz.Sxl4rz" /></a>
