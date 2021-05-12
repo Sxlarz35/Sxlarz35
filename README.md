@@ -1,20 +1,17 @@
 
-<p align="center"><img src="https://user-images.githubusercontent.com/68730434/115160008-a0eb8a80-a09e-11eb-8f5d-2fe13e6d3c1c.gif" alt="Sxl4rz" href='https://auto.creavite.co'/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/68730434/118043785-7f6c7e80-b37e-11eb-9a7c-a35bfb3b2336.gif" alt="k3m0n0" href='https://auto.creavite.co'/></p>
 
 <h1 align="center"> Socials </h1>
 <table align='center'>
  <tbody>
    <tr>
-     <td><a href="https://steamcommunity.com/id/Sxlarz"><img alt="Steam" title="Steam" height="28px"
+     <td><a href="https://steamcommunity.com/id/kemonoo"><img alt="Steam" title="Steam" height="28px"
                         src="https://user-images.githubusercontent.com/68730434/115649747-8d575280-a330-11eb-8d3a-07096ea2311c.png" /></a>
             </td>
-     <td><a href="https://www.youtube.com/c/Sxlarz"><img alt="YouTube" title="YouTube" height="28px"
-                        src="https://user-images.githubusercontent.com/68730434/115648882-ede59000-a32e-11eb-8f89-309573d4fc71.png" /></a>
-            </td>
-     <td><a href="https://twitch.tv/sxlarz__"><img alt="Twitch" title="Twitch" height="28px"
+     <td><a href="https://twitch.tv/k3mono_"><img alt="Twitch" title="Twitch" height="28px"
                         src="https://user-images.githubusercontent.com/68730434/115649927-ec1ccc00-a330-11eb-833e-f7ede18e723f.png" /></a>
             </td>
-     <td><a href="https://twitter.com/Sxlarz_"><img alt="Twitter" title="Twitter" height="28px"
+     <td><a href="https://twitter.com/k3mono__"><img alt="Twitter" title="Twitter" height="28px"
                         src="https://user-images.githubusercontent.com/68730434/115650106-4584fb00-a331-11eb-8bee-89127f7c3a07.png" /></a>
             </td>
    </tr>
@@ -54,8 +51,8 @@
 
 <h2 align="center"> GitHub Stats </h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sxl4rz&show_icons=true&theme=radical" alt="Sxl4rz" href='https://github.com/Sxl4rz'/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=k3m0n0&show_icons=true&theme=algolia" alt="k3m0n0" href='https://github.com/k3m0n0'/></p>
 
 <h2 align="center"> GitHub Visitors </h2>
 
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Sxl4rz.Sxl4rz" alt="Sxl4rz" href='https://github.com/Sxl4rz'/></p>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=k3m0n0.k3m0n0" alt="k3m0n0" href='https://github.com/k3m0n0'/></p>
