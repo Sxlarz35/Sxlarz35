@@ -46,15 +46,24 @@
   </tbody>
   </table>
 <h1 align="center"> Stats: </h1>
+<details align='center'>
 
-<h2 align="center"> Status Banner </h2>
 
-<p align="center"><img src="https://discord.c99.nl/widget/theme-2/540520449852047391.png" alt="Sxl4rz" href='https://github.com/Sxl4rz'/></p>
+  <summary>GitHub Stats</summary>
+  <br/>
+  <a href="https://github.com/k3m0n0"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=k3m0n0&show_icons=true&theme=algolia" /></a>
+</details>
 
-<h2 align="center"> GitHub Stats </h2>
+ <details align='center'>
+  <summary>Status Banner</summary>
+  <br/>
+  <a href="https://github.com/k3m0n0"><img alt="Status Banner" src="https://discord.c99.nl/widget/theme-2/540520449852047391.png" /></a>
+</details>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=k3m0n0&show_icons=true&theme=algolia" alt="k3m0n0" href='https://github.com/k3m0n0'/></p>
-
-<h2 align="center"> GitHub Visitors </h2>
-
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=k3m0n0.k3m0n0" alt="k3m0n0" href='https://github.com/k3m0n0'/></p>
+ <details align='center'>
+  <summary>GitHub Visitors</summary>
+ <br/>
+  <a href="https://github.com/k3m0n0"><img alt="GitHub Visitors" src="https://visitor-badge.glitch.me/badge?page_id=k3m0n0.k3m0n0" /></a>
+</details>
+ <!--<a href=""><img alt="" src="" /></a>-->
+<!---->
