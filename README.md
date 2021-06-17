@@ -1,11 +1,11 @@
 
-<p align="center"><img src="https://user-images.githubusercontent.com/68730434/120796737-d7447280-c543-11eb-88ef-e9d7b077d0c5.gif" alt="k3m0n0" href='https://auto.creavite.co'/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/68730434/122414434-d2de7780-cf8f-11eb-9520-4fae7b51dc85.gif" alt="Sxl4rz" href='https://auto.creavite.co'/></p>
 
 <h1 align="center"> Socials: </h1>
 <table align='center'>
  <tbody>
    <tr>
-     <td><a href="https://www.youtube.com/c/kemono"><img alt="YouTube" title="YouTube" height="28px"
+     <td><a href="https://www.youtube.com/c/sxlarz"><img alt="YouTube" title="YouTube" height="28px"
                         src="https://user-images.githubusercontent.com/68730434/120799908-fe04a800-c547-11eb-8037-7368c620d336.png" /></a>
      <td><a href="https://steamcommunity.com/id/kemonoo"><img alt="Steam" title="Steam" height="28px"
                         src="https://user-images.githubusercontent.com/68730434/120800439-9d299f80-c548-11eb-8944-6575e85e88ec.png" /></a>
