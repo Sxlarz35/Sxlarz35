@@ -5,16 +5,16 @@
 <table align='center'>
  <tbody>
    <tr>
-     <td><a href="https://www.youtube.com/c/sxlarz"><img alt="YouTube" title="YouTube" height="28px"
-                        src="https://user-images.githubusercontent.com/68730434/120799908-fe04a800-c547-11eb-8037-7368c620d336.png" /></a>
+     <td><a href="https://www.youtube.com/c/Sxlarz"><img alt="YouTube" title="YouTube" height="28px"
+                        src="https://user-images.githubusercontent.com/68730434/122561673-cff48d00-d04a-11eb-9081-4a2263cb3f1b.png" /></a>
      <td><a href="https://steamcommunity.com/id/kemonoo"><img alt="Steam" title="Steam" height="28px"
-                        src="https://user-images.githubusercontent.com/68730434/120800439-9d299f80-c548-11eb-8944-6575e85e88ec.png" /></a>
+                        src="https://user-images.githubusercontent.com/68730434/122563048-68d7d800-d04c-11eb-8513-ad1a5ed001ba.png" /></a>
             </td>
      <td><a href="https://twitch.tv/k3mono_"><img alt="Twitch" title="Twitch" height="28px"
-                        src="https://user-images.githubusercontent.com/68730434/120800900-29d45d80-c549-11eb-9d8a-8971b611c137.png" /></a>
+                        src="https://user-images.githubusercontent.com/68730434/122562367-aab44e80-d04b-11eb-8a8f-4b93d95beee9.png" /></a>
             </td>
-     <td><a href="https://twitter.com/k3mono__"><img alt="Twitter" title="Twitter" height="28px"
-                        src="https://user-images.githubusercontent.com/68730434/120801083-63a56400-c549-11eb-8eb9-d290230bff33.png" /></a>
+     <td><a href="https://twitter.com/Sxl4rz"><img alt="Twitter" title="Twitter" height="28px"
+                        src="https://user-images.githubusercontent.com/68730434/122561911-1649ec00-d04b-11eb-83fd-82a3537f53d9.png" /></a>
             </td>
    </tr>
   </tbody>
@@ -51,19 +51,19 @@
 
   <summary>GitHub Stats</summary>
   <br/>
-  <a href="https://github.com/k3m0n0"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=k3m0n0&show_icons=true&theme=algolia" /></a>
+  <a href="https://github.com/Sxl4rz"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sxl4rz&show_icons=true&theme=tokyonight" /></a>
 </details>
 
  <details align='center'>
   <summary>Status Banner</summary>
   <br/>
-  <a href="https://github.com/k3m0n0"><img alt="Status Banner" src="https://discord.c99.nl/widget/theme-2/540520449852047391.png" /></a>
+  <a href="https://github.com/Sxl4rz"><img alt="Status Banner" src="https://discord.c99.nl/widget/theme-2/540520449852047391.png" /></a>
 </details>
 
  <details align='center'>
   <summary>GitHub Visitors</summary>
  <br/>
-  <a href="https://github.com/k3m0n0"><img alt="GitHub Visitors" src="https://visitor-badge.glitch.me/badge?page_id=k3m0n0.k3m0n0" /></a>
+  <a href="https://github.com/Sxl4rz"><img alt="GitHub Visitors" src="https://visitor-badge.glitch.me/badge?page_id=Sxl4rz.Sxl4rz" /></a>
 </details>
  <!--<a href=""><img alt="" src="" /></a>-->
 <!---->
