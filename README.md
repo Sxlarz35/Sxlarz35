@@ -1,7 +1,15 @@
 
-<p align="center"><img src="https://user-images.githubusercontent.com/68730434/122414434-d2de7780-cf8f-11eb-9520-4fae7b51dc85.gif" alt="Sxl4rz" href='https://auto.creavite.co'/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/68730434/124181439-28517300-dabe-11eb-99e8-2d7a77df0e62.gif" alt="Sxl4rz" href='https://auto.creavite.co'/></p>
+
+<h1 align="center"> About Me: </h1>
+
+<div align="center"> Male </div>
+<div align="center"> Bulgarian </div>
+<div align="center"> 17 years old </div>
+<div align="center"> Weeb </div>
 
 <h1 align="center"> Socials: </h1>
+
 <table align='center'>
  <tbody>
    <tr>
@@ -57,7 +65,7 @@
  <details align='center'>
   <summary>Status Banner</summary>
   <br/>
-  <a href="https://github.com/Sxl4rz"><img alt="Status Banner" src="https://discord.c99.nl/widget/theme-2/540520449852047391.png" /></a>
+  <a href="https://github.com/Sxl4rz"><img alt="Status Banner" src="https://discord.c99.nl/widget/theme-1/540520449852047391.png" /></a>
 </details>
 
  <details align='center'>
