@@ -16,7 +16,7 @@
    <tr>
      <td><a href="https://www.youtube.com/c/Sxlarz"><img alt="YouTube" title="YouTube" height="28px"
                         src="https://user-images.githubusercontent.com/68730434/122561673-cff48d00-d04a-11eb-9081-4a2263cb3f1b.png" /></a>
-     <td><a href="https://steamcommunity.com/id/kemonoo"><img alt="Steam" title="Steam" height="28px"
+     <td><a href="https://steamcommunity.com/id/Sxlarz"><img alt="Steam" title="Steam" height="28px"
                         src="https://user-images.githubusercontent.com/68730434/122563048-68d7d800-d04c-11eb-8513-ad1a5ed001ba.png" /></a>
             </td>
      <td><a href="https://twitch.tv/isxlarz"><img alt="Twitch" title="Twitch" height="28px"
