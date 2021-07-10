@@ -7,7 +7,6 @@
 <div align="center"> Bulgarian </div>
 <div align="center"> 17 years old </div>
 <div align="center"> Weeb </div>
-<div align="center"> Designer (Making GFX but not for free)  </div>
 
 <h1 align="center"> Socials: </h1>
 
