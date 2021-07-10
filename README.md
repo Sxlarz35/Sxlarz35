@@ -58,13 +58,13 @@
 
   <summary>GitHub Stats</summary>
   <br/>
-  <a href="https://github.com/iSxlarz"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iSxlarz&show_icons=true&theme=tokyonight" /></a>
+  <a href="https://github.com/Sxl4rz"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sxl4rz&show_icons=true&theme=tokyonight" /></a>
 </details>
 
 <details align='center'>
   <summary>Most Used Languages</summary>
  <br/>
-  <a href="https://github.com/iSxlarz"><img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSxlarz&layout=compact&theme=tokyonight" /></a>
+  <a href="https://github.com/Sxl4rz"><img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxl4rz&layout=compact&theme=tokyonight" /></a>
 </details>
 
  <details align='center'>
@@ -76,7 +76,7 @@
  <details align='center'>
   <summary>GitHub Visitors</summary>
  <br/>
-  <a href="https://github.com/iSxlarz"><img alt="GitHub Visitors" src="https://visitor-badge.glitch.me/badge?page_id=iSxlarz.iSxlarz" /></a>
+  <a href="https://github.com/Sxl4rz"><img alt="GitHub Visitors" src="https://visitor-badge.glitch.me/badge?page_id=Sxl4rz.iSxl4rz" /></a>
 </details>
  <!--<a href=""><img alt="" src="" /></a>-->
 <!---->
